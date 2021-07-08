@@ -1,0 +1,26 @@
+.nav_bg {
+  padding-left: 660px;
+  padding-right: 660px;
+  width: 600px;
+  background-color: #13717e;
+}
+
+.menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+* {
+  font-family: "Mulish", sans-serif;
+}
+.navbar-nav {
+  height: 50px;
+  width: 500px;
+}
+.navbar-nav li {
+  padding: 25px;
+  margin-top: -25px;
+  font-weight: bold;
+  font-size: 19px;
+}
